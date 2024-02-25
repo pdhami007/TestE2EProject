@@ -5,6 +5,6 @@ public class App
         System.out.println( "This is Test 1 File" );
         System.out.println( "This is Test 1 File" );
         System.out.println( "This is Test 1 File" );
-        System.out.println( "Location is changed to Git Project." );
+        System.out.println( "Location is changed of Git Project." );
     }
 }
