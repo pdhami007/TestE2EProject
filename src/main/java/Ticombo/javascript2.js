@@ -1,0 +1,1 @@
+console.log("This is Java Script test file.")
